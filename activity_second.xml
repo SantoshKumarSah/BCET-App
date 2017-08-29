@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="in.ac.bcetdgp.bcet.SecondActivity">
+
+
+    <TableLayout
+        android:layout_width="407dp"
+        android:layout_height="585dp"
+        android:layout_marginTop ="150dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="-28dp">
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPageAndroid"
+            android:layout_width="364dp"
+            android:layout_marginTop="-25dp"
+            android:layout_height="188dp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow1"
+            android:layout_gravity="center"
+            android:background="@android:color/holo_blue_light"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="34dp"
+            android:layout_marginTop="80dp"
+            >
+
+            <Button
+                android:id="@+id/button1"
+                android:padding="32dp"
+                android:gravity="center"
+
+                android:layout_weight="1"
+                android:text="About Us"
+                android:background="#cac9c9"
+                />
+
+            <Button
+                android:id="@+id/button2"
+                android:padding="32dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="Messages"
+                android:background="#cac9c9"
+
+                />
+            <Button
+                android:id="@+id/button3"
+                android:padding="32dp"
+                android:gravity="center"
+                android:layout_marginLeft="5dp"
+
+                android:layout_weight="1"
+
+                android:text="Cources"
+                android:background="#cac9c9"
+
+                />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow2"
+            android:layout_marginTop="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="34dp"
+            android:background="@android:color/holo_blue_light"
+            android:layout_gravity="center"
+           >
+            <Button
+                android:id="@+id/button4"
+                android:padding="32dp"
+                android:gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:text="Campus"
+                android:background="#cac9c9"
+
+                />
+            <Button
+                android:id="@+id/button5"
+                android:padding="32dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="Departments"
+                android:background="#cac9c9"
+
+                />
+            <Button
+                android:id="@+id/button6"
+                android:padding="32dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:text="Facilities"
+                android:background="#cac9c9"
+
+                />
+
+
+        </TableRow>
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow3"
+            android:background="@android:color/holo_blue_light"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="34dp"
+            >
+            <Button
+                android:id="@+id/button7"
+                android:padding="32dp"
+                android:gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:text="Placement"
+                android:background="#cac9c9"
+
+                />
+            <Button
+                android:id="@+id/button8"
+                android:padding="32dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="News Update"
+                android:background="#cac9c9"
+
+                />
+            <Button
+                android:id="@+id/button9"
+                android:padding="32dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:text="Contact"
+                android:background="#cac9c9"
+
+                />
+
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>

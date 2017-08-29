@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">BCET</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_about">About College</string>
+    <string name="large_text">
+        "About BCET.\n\n"
+
+        "Bengal College of Engineering and Technology, Durgapur was set up under the aegis of "
+        "SKS Educational and Social Trust in 2001 with an objective of imparting quality education"
+        "in Engineering/Technology and Management for the upliftment of the society and the masses."
+        "The college offers a host of under graduate and post graduate degree courses in different"
+        "branches of engineering and management. Proximity to the region’s premier educational and"
+        "research institutes like NIT, Durgapur, CMERI (Central Mechanical Engineering Research "
+        "Institute), IIT-Kharagpur, ISI (Indian Statistical Institute-Kolkata),Jadavpur University,"
+        "Kolkata and Indian Institute of Engineering Science and Technology (IIEST), Howrah, have "
+        "resulted in a vast pool of intellectual capital. Today, its infrastructure includes "
+        "contemporary classrooms, well equipped labs, separate facilitated hostels for boys and "
+        "girls, to name a few. Many high profile Ministers and dignitaries have visited and praised"
+        "the college campus and its infrastructure.\n"
+        " BCET displayed unmatched entrepreneurial talent by receiving the National Championship "
+        "Award for three consecutive years in a row (2008, 2009 and 2010)and three years Runners-Up"
+        "(2011, 2012 and 2013),and Regional Champions ( 2014 and 2015) which ensures a special "
+        "recognition for the entire Durgapur region in the entrepreneurial map of the nation. "
+        "BCET has got the coveted NBA accreditation of four of its courses and this reflects the "
+        "quality of education at this institution.\n\n"
+
+        "Recognization.\n\n"
+
+        "AICTE Approval\n"
+        "MAKAUT (Previously known as WBUT) Affiliation\n\n"
+
+        "Faculty.\n\n"
+
+        "Click here to faculty list "
+        "http://bcetdgp.ac.in/faculty.html"\n\n"
+
+        "Mission and Vision.\n\n"
+
+        "VISION\n"
+        "Not simply to succeed but to surpass – Vince te Ipsum (surpass oneself). Foster a vibrant "
+        "learning milieu focusing on U.G., P.G., technical education and inter-disciplinary research"
+        "of international standard, fulfilling social concerns and global economic demands.\n\n"
+
+        "MISSION\n"
+        "1.Nurture human talent into proactive professionals and achieve excellence through discipline"
+        ", perseverance and creative thinking.\n"
+        "2.Impart and disseminate knowledge through industry-institution interaction and encourage "
+        "newer services for human development.\n"
+        "3.Facilitate world class technical education through innovative research and development "
+        "programme related to indigenous technology.\n"
+        "4.Shape management and technological practices in India by creating new frontier of knowledge,"
+        "developing new generation of ethical, dependable, entrepreneurial and socially sensitive "
+        "technocrats and employable global citizens. \n"
+        "5.To fortify the institute to turn into a trustworthy Centre for Education, Research, "
+        "Development and Outreach (ERD and O).\n\n"
+
+        "QUALITY POLICY\n"
+        "“We are committed towards providing personalized quality services by understanding the "
+        "students and the parents. We will also work towards continual improvement in Quality of our"
+        "Services by adapting the International Quality Management System Standard ISO 9001:2008 as "
+        "the minimum requirement.”"\n\n"
+
+    </string>
+
+    <string name="large_text1">
+        "I feel glad to introduce to you Bengal College of Engineering and Technology. Established "
+        "in 2001 it is the Flagship College of SKS Group of Institutions. Now it stands as a premier"
+        "Engineering College in West Bengal with well known reputation and with all its eligible "
+        "courses accredited by National Board of Accreditation and All India Council for Technical "
+        "Education (AICTE), New Delhi.\n\n"
+
+        "To support the cause of Education, SKSgi has courses ranging from primary education to "
+        "Post Graduate Technical Degrees, and campuses at strategic locations both in West Bengal "
+        "and Uttar Pradesh. In Higher Education there are courses available in Engineering, "
+        "Computing, Pharmaceutical Sciences, Management, and many more.\n\n"
+
+        "The faculty in the college is one of the best in its class, and the college has a tie-up "
+        "with several reputed industries in the country so as to provide an excellent on-campus "
+        "placement to its graduating students.\n\n"
+
+        "BCET is an ISO 9001:2008 certified institute and all its eligible courses are NBA "
+        "Accredited and hence internationally recognised. The institute is at the verge of a very "
+        "rapid growth and it is being aimed to achieve the Deemed University status in future.\n\n"
+
+        "I convey my best wishes to all the students and their parents for a successful future and '
+        "good education.\n\n"
+
+        </string>
+
+    <string name="large_text2">
+        "Bengal College of Engineering and Technology have been able to pump gusto of certainty by "
+        "remaining focused on our shared mission, values and goals. Our focus on quality learning "
+        "strategies set in accordance with Washington Accord, collaboration with different reputed "
+        "organizations like NIT Durgapur, CMERI, DSP, ASP, DPL, ALSTOM, PCBL, Graphite India and "
+        "Indian Air Force (Panagarh Base), IITs, JU, IIEST (BESU) etc have made us a professional "
+        "learning community- a community built to shift the paradigms in the domain of technological"
+        "and management education nationwide. The NBA Accreditation of four courses of BCET will "
+        "help us to bolster R and D Programme, resulting in wider exposures of Industry-Academia "
+        "interactions and also an International recognition of the courses conducted by the College.\n\n"
+
+        "Engineering is a creative art and it certainly needs a cohort of mentors who gets this "
+        "creative art a platform. Our E-Cell, has given wings to the creative ideas fostered by our "
+        "students. Some of our students have already emerged as successful entrepreneurs at national"
+        "level. We salute these great techies and welcome those to our portal who want to live larger"
+        "than life. It is a matter of pride that our Hon’ble Chairman Sir Shri. S. K. Sharma has "
+        "recently been felicitated by the Rotary International for his landmark contribution in "
+        "technical and management Education which has credited SKSgi with a benchmark at national level.\n\n"
+
+        "Our quality and outcome based education has attracted myriad national and multinational "
+        "companies to recruit our students and our placement cell stands as Prometheus to provide "
+        "multiple job opportunities to our students. This, once more testifies the verity of the "
+        "statement that SKSgi strives its best to launch its students in the job market with aplomb."\n\n"
+
+        "Today, all the Institutions under SKS banner have become trend setters and torchbearers in "
+        "the fields of Engineering, Management, Pharmaceutical and General Education. They are a "
+        "class of their own in areas like Campus Placement, Global Education Opportunities, and "
+        "Infrastructural Facilities with enviable performance in all India exams and entrepreneurship."
+        "Our achievements are the products of our relentless pursuit of quality and excellence to "
+        "offer more educational and moral enlightenment to our pupils.\n\n"
+
+        "You can sit and see the world change. Or you can stand and drive the change. The choice is "
+        "yours. If you are at SKSgi, we are confident that you will be the architects of your own fate."
+        "We hope that your stay with us will be enjoyed and cherished forever. Knowledge based manpower "
+        "is the need of the hour and we have to face the challenge through quality technical and "
+        "professional education. I feel a pull at my heart at this point to mention that our Chairman"
+        "of SKS Group of Institutions Shri.S.K.Sharma and our Vice-Chairman Shri Mayank Gautam have "
+        "been the cascade of all our dynamic endeavors in catering valueand outcome based education "
+        "to thousands of young minds. It is the patronage of our visionary management, co-operation "
+        "of our worthy faculty members and the best wishes of our collaborators which has enabled us"
+        "to emerge Bengal college of Engineering and Technology as a centre for excellence-a flagship"
+        "college under the aegis of SKS Educational and Social Trust committed towards the motto "
+        "Vince-te-Ipsum (surpass thyself). The accolades like NBA Accreditation and the attainment"
+        "of OUTSTANDING ENGINEERING INSTITUTE (EAST) by ABP NEWS National Education Awards, achieved"
+        "by the college in this successful journey of transforming blooming buds into techno blossoms"
+        "deserve a special mention.\n\n"
+
+        </string>
+
+    <string name="large_text3">
+        "The year 2016, and the journey of BCET goes through sixteen consecutive years-always growing"
+        "in size, variety and quality in technological and management education that it imparts to "
+        "it's pupil from near and far.Through these years it has come a long way from starting four "
+        "courses in B.Tech in the inaugural year 2001, to successfully running nine Bachelors' and "
+        "three Masters' courses in technology since 2011.The Masters' level courses in Management "
+        "like MBA and MCA continue under able guidance and leadership of faculties.\n\n"
+
+        "It is a matter of great pleasure and pride that the college is providing an excellent quality"
+        "of education and mentoring for the students, aspiring to be competent professionals in "
+        "technology and management. Research projects under AICTE funding have been initiated in this"
+        "college for the benefit of students, faculties and development of this region as well as for"
+        "the society at large. The Entrepreneurship Cell of the college having faculties and students"
+        "as members, has been awarded national championship thrice in a row between 2008 to 2015 and "
+        "for the following years it has come as runners up.The professional involvement of students "
+        "in Robotics by working models preparation reflect the height of knowledge and application "
+        "of the students.They have won top positions at various inter-college meets in the State as "
+        "well as national level technological competitions and at cultural meets.\n\n"
+
+        "With a student strength of three thousand at BCET, our efforts are directed to accommodate "
+        "and address the expections of every student by the way of enabling them to participate in "
+        "seminars,workshops in and out of the Institute, apart from educational tours and industrial"
+        "project works. To refine the necessary attitude, aptitude and skills to achieve placement "
+        "on corporate sector, the Institute is supportive to the students by arranging periodical "
+        "tests and group interaction exercises. We endeavour to equip our students with both technical "
+        "and management skills, so that they may contribute to the industry being excellent professionals.\n\n"
+
+        "We are determined to retain this level of superiority already in command and improve further"
+        "in every sphere of academic activities including research orientation and overall development"
+        "of the students at BCET .\n\n"
+
+        </string>
+    <string name="large_text4">
+        "Prof. (Dr.) Alok Kumar Bharadwaj\n"
+                  "Principal\n"
+        "Bengal College of Engineering and Technology\n\n"
+
+    </string>
+    <string name="large_text5">
+        "Prof. (Dr.) A.C. Ganguli\n"
+            "Director (Admin)\n"
+     "SKS Educational and Social Trust\n\n"
+
+        </string>
+    <string name="large_text6">
+           "Shri. S K Sharma\n"
+              "Chairman\n"
+"Bengal College of Engineering and Technology\n\n"
+
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_course">CourseActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+</resources>

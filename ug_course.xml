@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="false"
+    tools:context="in.ac.bcetdgp.bcet.CourseActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/relativelayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="28dp"
+                android:textAlignment="center"
+                android:text="CHAIRMAN'S MESSAGE"
+                android:textColor="@color/colorPrimaryDark"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                app:layout_constraintHorizontal_bias="0.0"
+                android:layout_alignParentTop="true"
+                />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="273dp"
+                app:srcCompat="@drawable/chairman"
+                android:layout_marginTop="30dp"
+                android:layout_alignParentRight="true"
+                tools:layout_editor_absoluteX="185dp"
+                tools:layout_editor_absoluteY="30dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+
+                android:layout_height="82dp"
+                android:textColor="@color/colorPrimary"
+                android:textSize="14dp"
+                android:textStyle="normal"
+                android:textAlignment="center"
+                android:text="Shri. S K Sharma
+Chairman
+Bengal College of Engineering and Technology"
+                tools:layout_editor_absoluteX="189dp"
+                tools:layout_editor_absoluteY="303dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@+id/imageView"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="370dp"
+                    android:layout_height="484dp"
+                    android:text="@string/large_text1"
+                    tools:layout_editor_absoluteX="8dp"
+                    tools:layout_editor_absoluteY="30dp"
+                    android:scrollbars="vertical"
+                    />
+            </ScrollView>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="920dp"
+                android:background="@android:color/background_light">
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="28dp"
+                    android:textAlignment="center"
+                    android:text="DIRECTOR'S MESSAGE
+"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    tools:layout_editor_absoluteY="0dp"
+                    app:layout_constraintHorizontal_bias="0.0"
+
+                    android:layout_alignParentTop="false"
+                    />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_below="@+id/textView1"
+                    android:layout_height="273dp"
+                    app:srcCompat="@drawable/director"
+                    android:layout_alignParentRight="true"
+                    tools:layout_editor_absoluteX="185dp"
+                    tools:layout_editor_absoluteY="30dp" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="82dp"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="14dp"
+                    android:textStyle="normal"
+                    android:textAlignment="center"
+                    android:text="Prof. (Dr.) A.C. Ganguli
+Director (Admin)
+SKS Educational and Social Trust"
+                    tools:layout_editor_absoluteX="189dp"
+                    tools:layout_editor_absoluteY="303dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_below="@+id/imageView1"
+
+                    />
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="340dp"
+                        android:layout_height="484dp"
+                        android:text="@string/large_text1"
+
+                        tools:layout_editor_absoluteX="8dp"
+                        tools:layout_editor_absoluteY="30dp"
+                        android:scrollbars="vertical"
+                        />
+                </ScrollView>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="890dp"
+                    android:background="@android:color/background_light">
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="28dp"
+                        android:textAlignment="center"
+                        android:text="PRINCIPAL'S MESSAGE
+"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textStyle="bold"
+                        android:textSize="20dp"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        app:layout_constraintRight_toRightOf="parent"
+                        tools:layout_editor_absoluteY="0dp"
+                        app:layout_constraintHorizontal_bias="0.0"
+
+                        android:layout_alignParentTop="false"
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="match_parent"
+                        android:layout_below="@+id/textView6"
+                        android:layout_height="273dp"
+                        app:srcCompat="@drawable/principal"
+                        android:layout_alignParentRight="true"
+                        tools:layout_editor_absoluteX="185dp"
+                        tools:layout_editor_absoluteY="30dp" />
+
+                    <TextView
+                        android:id="@+id/textView7"
+                        android:layout_width="match_parent"
+                        android:layout_height="82dp"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="14dp"
+                        android:textStyle="normal"
+                        android:textAlignment="center"
+                        android:text="Prof. (Dr.) Alok Kumar Bharadwaj
+Principal
+Bengal College of Engineering and Technology"
+                        tools:layout_editor_absoluteX="189dp"
+                        tools:layout_editor_absoluteY="303dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_below="@+id/imageView3"
+
+                        />
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:id="@+id/textView8"
+                            android:layout_width="match_parent"
+                            android:layout_marginTop="340dp"
+                            android:layout_height="484dp"
+                            android:text="@string/large_text1"
+
+                            tools:layout_editor_absoluteX="8dp"
+                            tools:layout_editor_absoluteY="30dp"
+                            android:scrollbars="vertical"
+                            />
+                    </ScrollView>
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+
+</RelativeLayout>
+
+
+
